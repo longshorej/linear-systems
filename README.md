@@ -1,7 +1,7 @@
 linear-systems
 ==============
 
-A software implementation of computing concepts such as BigInteger, plus integration with matrices and other mathematical concepts. Written in C# during my senior year at Elmhurst College. 
+A software implementation of computing concepts such as BigInteger, plus integration with matrices and other mathematical structures. Written in C# during my senior year at Elmhurst College. 
 
 Copyright (C) 2009 Jason Longshore
 
